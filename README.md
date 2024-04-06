@@ -21,7 +21,11 @@ I like how river works, and I also like Hyprland animations. Maybe you could mix
 Something like eww (Elkowar's Wacky Widgets), but with significantly easier configuration
 
 ## Sigma Linux (Wayland edition)
-Create a new version of Sigma Linux using a Wayland compositor (perhaps the one we create above?)
+Done. Yay!
+
+URL: https://github.com/rdbo/sigma-linux
+
+~Create a new version of Sigma Linux using a Wayland compositor (perhaps the one we create above?)~
 
 ## Libmem 5.0
 Make a new version of libmem with Lua bindings, bug fixes, easier installation, etc.
