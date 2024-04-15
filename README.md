@@ -29,3 +29,6 @@ URL: https://github.com/rdbo/sigma-linux
 
 ## Libmem 5.0
 Make a new version of libmem with Lua bindings, bug fixes, easier installation, etc.
+
+## Learn Crypto/Blockchain
+Do something related to crypto/blockchain, i don't know what. Maybe a payment system that creates wallets and sends the payment directly to your main wallet.
